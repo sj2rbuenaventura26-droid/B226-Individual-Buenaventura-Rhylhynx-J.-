@@ -20,12 +20,11 @@ public class TernaryOperator {
          System.out.println(tempResult);        
          
       // Positive or Negative 
-        int num = -1;
-
-             String result = (num == 0) ? "Neutral"
-                : (num > 100) ? "Number is greater than 100"
-                : (num > 0) ? "Positive"
-                : "Negative";
+       //
+         //    String result = (num == 0) ? "Neutral"
+           //     : (num > 100) ? "Number is greater than 100"
+             //   : (num > 0) ? "Positive"
+               // : "Negative";
       //   System.out.println(tempResult);
         
         
