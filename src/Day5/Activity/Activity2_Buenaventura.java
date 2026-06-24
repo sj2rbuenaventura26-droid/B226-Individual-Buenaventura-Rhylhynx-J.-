@@ -23,8 +23,8 @@ public class Activity2_Buenaventura {
         System.out.printf("Rent:  %.1f%%\n", rentPercent);
         System.out.printf("Utility Bill: %.1f%%\n", utilityPercent);
         
-         System.out.println("Total Expenses: " + totalExpenses);
-          System.out.println("Remaining Balance: " + remainingBalance);
+        System.out.println("Total Expenses: " + totalExpenses);
+        System.out.println("Remaining Balance: " + remainingBalance);
           
 
              
