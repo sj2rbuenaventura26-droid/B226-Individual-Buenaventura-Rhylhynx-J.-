@@ -13,16 +13,16 @@ public class Activity3_Buenaventura {
         // System.out.println("Result: " + result);
          
              
-               // output 3
+             
              
     
+            // output3
+        //boolean isWeekend = true;
+        // boolean isHoliday = false;
 
-        boolean isWeekend = true;
-        boolean isHoliday = false;
+        // String result = (isWeekend || isHoliday) ? "No classes today" : "Classes today";
 
-        String result = (isWeekend || isHoliday) ? "No classes today" : "Classes today";
-
-        System.out.println(result);
+        // System.out.println(result);
     
 
               
