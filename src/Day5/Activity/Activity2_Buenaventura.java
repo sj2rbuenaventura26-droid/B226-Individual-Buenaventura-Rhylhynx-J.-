@@ -3,7 +3,7 @@ package Day5.Activity;
 
 public class Activity2_Buenaventura {
     public static void main(String[] args) {
-        double income = 5000;
+        double income = 50000;
         double foodAllowance = 15000;
         double transportation = 2500;
         double rent = 4500;
