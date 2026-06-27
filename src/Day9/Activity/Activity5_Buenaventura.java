@@ -20,17 +20,93 @@ public class Activity5_Buenaventura {
           //System.out.println("Final Sum: " + sum);
           
       // 5.2 Product of 1 to N
-      System.out.print("Enter N: ");
-       int n = input.nextInt();
+    //  System.out.print("Enter N: ");
+      // int n = input.nextInt();
        
-       int product = 1;
-       for (int i = 1; i <= n; i++){
-           product *= i; 
-           System.out.println("i = " + i + ", product = " + product);
-       }
-       System.out.println("Final Product: " + product);
+       //int product = 1;
+       //for (int i = 1; i <= n; i++){
+         //  product *= i; 
+           //System.out.println("i = " + i + ", product = " + product);
+       //}
+       //System.out.println("Final Product: " + product);
           
-          
+      
+       
+       // 5.3 Arithmetic Sequence (Sum Only)
+       
+        System.out.print("Enter starting number: ");
+        int startNumber = input.nextInt();
+        
+        System.out.print("Enter common difference: ");
+        int commonDifference = input.nextInt();
+        
+        System.out.print("Enter number of terms: ");
+        int n = input.nextInt();
+        
+         int current = startNumber;
+        int sum = 0;
+        
+        for (int i = 1; i <= n; i++) {
+            sum += current; 
+            if (i < n) {
+                System.out.print(current + " + ");
+            } else {
+                System.out.print(current);
+            }
+          current += commonDifference;            
+        }
+        System.out.println(" = " + sum);
+       
+        
+       // 5.4 Arithmetic Sequence (Sum and Product)
+       //System.out.print("Enter starting number: ");
+        //int startNumber = input.nextInt();
+
+        //System.out.print("Enter common difference: ");
+        //int commonDifference = input.nextInt();
+
+        //System.out.print("Enter number of terms: ");
+        //int n = input.nextInt();
+
+        //int current = startNumber;
+        //int sum = 0;
+        //long product = 1;
+
+        //System.out.print("Sum: ");
+
+        //for (int i = 1; i <= n; i++) {
+
+          //  sum += current;
+
+            //if (i < n)
+              //  System.out.print(current + " + ");
+            //else
+              //  System.out.print(current);
+
+            //current += commonDifference;
+        //}
+
+        //System.out.println(" = " + sum);
+
+        //current = startNumber;
+
+        //System.out.print("Product: ");
+
+        //for (int i = 1; i <= n; i++) {
+
+          //  product *= current;
+
+            //if (i < n)
+              //  System.out.print(current + " * ");
+            //else
+              //  System.out.print(current);
+
+            //current += commonDifference;
+        //}
+        
+       //System.out.println(" = " + product);
+        
+        
           
           
           
