@@ -1,6 +1,6 @@
 package Day12.Activity;
 
-import java.util.Scanner;
+ import java.util.Scanner;
 
 public class Activity8_Buenaventura {
 
