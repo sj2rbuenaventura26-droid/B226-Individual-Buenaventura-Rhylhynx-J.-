@@ -5,8 +5,9 @@ import java.util.Scanner;
 
 public class Activity9_Buenaventura {
     public static void main(String[] args) {
-        //            Research Phase   
-       // contains() / checks if the a string contains a specific word or character
+        // Research Phase   
+       //                   contains() 
+       // checks if the a string contains a specific word or character
         // Syntax - string.contains("text");
       /*
         String sentence = "Hello Java";
@@ -41,12 +42,12 @@ public class Activity9_Buenaventura {
      //              indexOf()
      // Finds the position (index) of a character or word 
      
-     /*
-     String word = "Blackpink";
      
-     System.out.println(word.indexOf("p"));
-     System.out.println(word.indexOf("B"));
-     */
+  //   String word = "Rhylhynx";
+     
+   //  System.out.println(word.indexOf("y"));
+     //System.out.println(word.indexOf("x"));
+     
      
      
      //              isEmpty()
