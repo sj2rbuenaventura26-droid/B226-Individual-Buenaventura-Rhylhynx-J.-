@@ -8,16 +8,16 @@ public class Activity10_Buenaventura {
        
         //  === Math.abs() -   Returns the absolute (positive) value of number
  
-         /*
+        /* 
         System.out.println(Math.abs(-25);         
-        */      
+          */  
        
        
          // === Math.max() - Returns the larger of two numbers / Math.max(num1 , num2);
         
          /*
            System.out.println(Math.max(15, 30));
-         */
+         */         
          
          
          // === Math.min() - Returns the smaller of two numbers / Math.min(num1, num2);
@@ -105,7 +105,12 @@ public class Activity10_Buenaventura {
        
        // === Math.tan() - Returns the tangent of an angle (in radians) / Math.tan(angle);
        
+       /*
        System.out.println(Math.tan(Math.PI / 4));
+       */
+       
+       
+       
         
              
                    
