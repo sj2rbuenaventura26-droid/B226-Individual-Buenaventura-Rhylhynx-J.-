@@ -95,7 +95,7 @@ public class Activity9_Buenaventura {
       System.out.println(letters[i]);
   }
   
-  */
+ */
 
 
 
@@ -110,8 +110,8 @@ public class Activity9_Buenaventura {
       char letter = scanner.nextLine().charAt(3);
 
        System.out.println(letter);
-
-     */
+*/
+    
      
      
      
@@ -129,7 +129,7 @@ public class Activity9_Buenaventura {
      
      //              Stretch Goal
      
-     
+   /*  
      String country = "Philippines";
      
      System.out.println("First Character: " + country.charAt(0));
@@ -158,7 +158,7 @@ public class Activity9_Buenaventura {
       System.out.println("Number of P/p:  " + countp);
       System.out.println("Total number of vowels: " + vowelCount);
      
-     
+     */
     
     }
 }

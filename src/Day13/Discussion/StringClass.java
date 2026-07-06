@@ -5,8 +5,10 @@ package Day13.Discussion;
 
 public class StringClass {
     public static void main(String[] args ) { 
-    Scanner scanner = new Scanner(System.in);
-    // Display the exit confirmation menu  
+  
+      Scanner scanner = new Scanner(System.in);
+    
+/* Display the exit confirmation menu  
     System.out.println("Are you sure you want to exit? \n\t[Y] Yes \n\t[N] No");
     // Prompt the user for their choice   
     System.out.println("Enter your choice: ");
@@ -21,7 +23,7 @@ public class StringClass {
       }
       
       scanner.close(); // Close the scanner
-       
+    */   
     }    
 }
 /*
