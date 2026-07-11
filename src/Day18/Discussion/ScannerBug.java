@@ -1,0 +1,16 @@
+
+package Day18.Discussion;
+
+import java.util.Scanner;
+
+
+public class ScannerBug {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter your age: ");
+        int age = scanner.nextInt();
+        System.out.println("Enter your mobile number: ");
+        String mobileNum = scanner.nextLine(); 
+    }
+            
+}
